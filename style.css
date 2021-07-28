@@ -1,0 +1,22 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1,h2{
+    font-family: 'Bebas Neue', cursive;
+}
+h1{
+    font-size: 80px;
+    font-weight: 700;
+    color: #FA804C;
+}
+
+.navbar-nav a{
+    font-size: 16px;
+    color: #3C3C3C;
+    
+}
+/* Body design start */
